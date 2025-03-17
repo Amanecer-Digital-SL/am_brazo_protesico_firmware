@@ -14,10 +14,10 @@
 #define SWL 26
 #define SWR 27
 // Potenciometros
-#define RX 36
-#define RY 39
-#define LX 35
-#define LY 34
+#define RX 39
+#define RY 36
+#define LX 34
+#define LY 35
 // Servomotores
 #define Servo_1 13
 #define Servo_2 16
